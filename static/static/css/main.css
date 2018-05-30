@@ -1,0 +1,8 @@
+h1 {
+	text-align: center;
+	border: 1px solid;
+	padding: 1px;
+	box-shadow: 5px 5px #ff6347;
+	font-size: 18px;
+	line-height: 1.25em;
+}
